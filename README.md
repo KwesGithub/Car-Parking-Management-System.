@@ -1,4 +1,4 @@
-@@ -0,0 +1,26 @@
+
 # Car Parking Management System
 
 A full-stack, API-driven web application designed to streamline parking booking and management. This project features a relational SQL database, real-time occupancy visualisation, and accessibility-focused UI design.
